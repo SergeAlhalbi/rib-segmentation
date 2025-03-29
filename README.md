@@ -19,7 +19,7 @@ Riverain Technologies
 - Xiaotian (Dennis) Wu
 
 ## Tools and Libraries
-- MATLAB
+- Python
 
 ## Usage
 ```bash
